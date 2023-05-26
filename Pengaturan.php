@@ -28,8 +28,6 @@
 				<li><a href="transaksi.php"><i class="fa fa-shopping-cart"></i> Transaksi</a></li>
 				<li><a href="produk.php"><i class="fas fa-box-open"></i> Produk</a></li>
 				<li><a href="laporan.php"><i class="fas fa-clipboard-list"></i> Laporan</a></li>
-				<li><a href="Pengaturan.php" class="active" href=""><i class="fas fa-user-cog"></i> Pengaturan</a></li>
-				<li><a href="logout.php"><i class="fas fa-sign-out-alt"></i> Keluar</a></li>
 			</ul>
 		</nav>
 	</header>

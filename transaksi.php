@@ -32,8 +32,6 @@ do {
 				<li><a class="active" href="transaksi.php"><i class="fa fa-shopping-cart"></i> Transaksi</a></li>
 				<li><a href="produk.php"><i class="fas fa-box-open"></i> Produk</a></li>
 				<li><a href="laporan.php"><i class="fas fa-clipboard-list"></i> Laporan</a></li>
-				<li><a href="Pengaturan.php"><i class="fas fa-user-cog"></i> Pengaturan</a></li>
-				<li><a href="logout.php"><i class="fas fa-sign-out-alt"></i> Keluar</a></li>
 			</ul>
 		</nav>
 	</header>
@@ -162,10 +160,6 @@ do {
 			</div>
 		</div>
 	</main>
-
-	<footer>
-		<p>&copy 2020 Tim Siposweb</p>
-	</footer>
 
 	<script type="text/javascript" src="assets/js/transaksi.js"></script>
 </body>

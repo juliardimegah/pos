@@ -31,8 +31,6 @@ $transaksi = queryRead("SELECT * FROM laporan_transaksi ORDER BY tanggal DESC LI
 				<li><a href="transaksi.php"><i class="fa fa-shopping-cart"></i> Transaksi</a></li>
 				<li><a href="produk.php"><i class="fas fa-box-open"></i> Produk</a></li>
 				<li><a class="active" href="laporan.php"><i class="fas fa-clipboard-list"></i> Laporan</a></li>
-				<li><a href="Pengaturan.php"><i class="fas fa-user-cog"></i> Pengaturan</a></li>
-				<li><a href="logout.php"><i class="fas fa-sign-out-alt"></i> Keluar</a></li>
 			</ul>
 		</nav>
 	</header>
@@ -175,9 +173,7 @@ $transaksi = queryRead("SELECT * FROM laporan_transaksi ORDER BY tanggal DESC LI
 		</div>
 	</main>
 
-	<footer>
-		<p>&copy 2020 Tim Siposweb</p>
-	</footer>
+
 	<script type="text/javascript" src="assets/js/laporan.js"></script>
 	<script src="https://kit.fontawesome.com/6606a30803.js" crossorigin="anonymous"></script>
 </body>
